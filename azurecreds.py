@@ -1,0 +1,2 @@
+AZURE_KEY_SPELLING = "enterme"
+AZURE_KEY_ANALYTICS = "enterme"
